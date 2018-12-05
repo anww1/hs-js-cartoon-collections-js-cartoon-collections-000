@@ -10,6 +10,7 @@ function dwarfRollCall(dwarves) {
   return string;
 }
 
+
 function summonCaptainPlanet(planeteerCalls){
   var index = 0;
   var string ="";
